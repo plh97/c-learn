@@ -30,7 +30,7 @@ c里面不允许出现标识符 % & $
 
 #### c中的保留字
 | keep word | descript |
-|:-:|:-:|
+|:-:| - |
 | auto | auto declare variable |
 | break | jump out loop |
 | case | branch of key word |
