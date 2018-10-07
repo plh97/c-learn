@@ -31,3 +31,32 @@ c里面不允许出现标识符 % & $
 #### c中的保留字
 | keep word | descript |
 |:-:|:-:|
+| auto | auto declare variable |
+| break | jump out loop |
+| case | branch of key word |
+| char | decarible variable or function return type |
+| const | decarible variable which only read |
+| continue | to jump to next loop |
+| default | the last branch of switch |
+| do | the loop statement main body |
+| double | to declare an double float point variable |
+| else | the IF-else statment branch |
+| enum | to declare enumerate type |
+| extern | declare variable or function in file or files's place |
+| float | declare an single float variable or function return value |
+| for | the loop statement |
+| goto | jump word without conditions |
+| if | if-elseif-else statement |
+| int | to declare an integer variable |
+| long | to declare an longer integer variable or function return value |
+| register | to declare an store variable |
+| short | to declare an short integer value |
+| signed | to declare an variable with symbol , or declare an function return value |
+| sizeof | to calculator the size && type of value |
+| static | declare an static variable |
+| switch | declare a switch statement |
+| typedef | give data another name |
+| unsigned | declare variable without symbol or function |
+| union | declare union variable |
+| void | declare function which has no value to return or has no arguments, or declare no-type point |
+| volatile | it is said that variable which can be change while running |
